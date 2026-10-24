@@ -1,5 +1,5 @@
 # Still Launcher
-
+CYKA BLAT
 Still is an independent, privacy-first Android launcher prototype built with Kotlin and Jetpack Compose. Its visual direction is quiet typography, simple spacing, and customization without a dashboard-template aesthetic.
 
 ## Home Screens
